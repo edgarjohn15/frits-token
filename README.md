@@ -1,5 +1,5 @@
 # frits-token
-Copyright (c) 2017 Randstad Groep Nederland
+Copyright (c) 2017 Randstad Group Netherlands
 
 What is FRITS?
 
